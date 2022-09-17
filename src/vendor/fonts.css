@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Gilroy';
+    font-style:  normal;
+    font-weight: bold;
+    src: url("./Fonts/Gilroy/Gilroy-Bold.ttf") format("ttf")
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style:  normal;
+    font-weight: 900;
+    src: url("./Fonts/Gilroy/Gilroy-Black.ttf") format("ttf")
+}
+
+@font-face {
+    font-family: 'Avenir';
+    font-style:  normal;
+    font-weight: 500;
+    src: url("./Fonts/Avenir-master/AvenirMedium.ttf") format("ttf"),
+    url("./Fonts/Avenir-master/AvenirMedium.eot") format("eot"),
+    url("./Fonts/Avenir-master/AvenirMedium.woff") format("woff"),
+    url("./Fonts/Avenir-master/AvenirMedium.woff2") format("woff2"),
+}
+
+@font-face {
+    font-family: 'Avenir';
+    font-style:  normal;
+    font-weight: 400;
+    src: url("./Fonts/Avenir-master/AvenirMedium.ttf") format("ttf"),
+    url("./Fonts/Avenir-master/AvenirMedium.eot") format("eot"),
+    url("./Fonts/Avenir-master/AvenirMedium.woff") format("woff"),
+    url("./Fonts/Avenir-master/AvenirMedium.woff2") format("woff2"),
+}
+
+@font-face {
+    font-family: 'Avenir';
+    font-style:  normal;
+    font-weight: 400;
+    src: url("./Fonts/Avenir-master/") format("ttf"),
+    url("./Fonts/Avenir-master/AvenirMedium.eot") format("eot"),
+    url("./Fonts/Avenir-master/AvenirMedium.woff") format("woff"),
+    url("./Fonts/Avenir-master/AvenirMedium.woff2") format("woff2"),
+}
+
+@font-face {
+    font-family: 'Avenir';
+    font-style:  normal;
+    font-weight: 900;
+    src: url("./Fonts/Avenir-master/AvenirBold.ttf") format("ttf"),
+    url("./Fonts/Avenir-master/AvenirBold.eot") format("eot"),
+    url("./Fonts/Avenir-master/AvenirBold.woff") format("woff"),
+    url("./Fonts/Avenir-master/AvenirBold.woff2") format("woff2"),
+}
